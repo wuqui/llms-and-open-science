@@ -1,6 +1,5 @@
 - A survey of the role of [[Large Language Models]] in [[Open Science]].
-- # Overview diagram
--
+- {{embed [[Overview Diagram]]}}
 - # Summary
 - [Science](science) is a collective endeavor that involves actors such as [[researchers]], [[students]], [[communicators]], [[administrators]] and the [[general public]] in various roles. In this post, we analyse a schematic science workflow, from conceptualization to dissemination through [[literature review]], actual research and [peer-reviewed](peer review) publication. We identify [[opportunities]], and [pitfalls]([[challenges]]), for the use of [[Large Language Models]] (LLMs) and review contentious aspects of LLM use in the particular context of the OpenScience movement.
 	- foo
