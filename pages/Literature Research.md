@@ -9,5 +9,6 @@
   * [[researchers]] when performing gap analysis to decide on new research, or looking for background information
   * members of the [public](general public) seeking to understand the current state of research in areas of their interest, e.g.
     *  health conditions, gender-specific job applicant behaviour, environmental life-cycle assessment of consumer products, impact of public-health interventions on the spreading of transmissible disease, etc.
-  * [[communicators]] when offering context that is not known in non-specialized circles - e.g. explaining a new breakthrough in quantum communication by first providing background on entangled photon pairs
+  * [[communicators]] when offering context for new research findings, e.g.   
+    * e.g. explaining a new breakthrough in quantum communication by first providing background on entangled photon pairs
 -
