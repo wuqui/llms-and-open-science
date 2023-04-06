@@ -1,3 +1,4 @@
+- ![image.png](../assets/image_1680796743771_0.png)
 -
 - seems very geared towards clinical trials (sections bar). First pdf upload failed. Second attempt: good one-sentence summary, but none of the pre-specified queries were relevant. Seems like a stiff system.
 -
