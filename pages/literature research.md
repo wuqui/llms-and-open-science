@@ -11,4 +11,9 @@
     *  health conditions, gender-specific job applicant behaviour, environmental life-cycle assessment of consumer products, impact of public-health interventions on the spreading of transmissible disease, etc.
   * [[communicators]] when offering context for new research findings, e.g.   
     * e.g. explaining a new breakthrough in quantum communication by first providing background on entangled photon pairs
+- ## Exemplary user stories
+  
+  * **Paper summarization**: as a researcher, I want to obtain a summary of a paper that highlights major results. 
+  * **Conceptual synthesis**: as a researcher, as a citizen, as a student, I want to obtain a consolidated definition of a scholarly concept that combines encyclopedia and research knowledge and that substantiates statements via citations of peer-reviewed literature
+  * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
 -
