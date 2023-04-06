@@ -1,4 +1,6 @@
-- Prompt: Can you provide references about Franson interferometry, preferably ones that discuss how to entangle massive particles?
+-
+- Prompt:
+	- Can you provide references about Franson interferometry, preferably ones that discuss how to entangle massive particles?
 - Answer:
 	- Certainly! Here is a list of references related to Franson interferometry and some that discuss entangling massive particles. Keep in mind that the knowledge cutoff for this AI is September 2021, so there might be more recent publications available.
 	- Franson, J. D. (1989). Bell inequality for position and time. Physical Review Letters, 62(19), 2205-2208. [This is the original paper by J. D. Franson, where he proposes the Franson interferometer.]
@@ -8,4 +10,6 @@
 	- O'Connell, A. D., Hofheinz, M., Ansmann, M., Bialczak, R. C., Lenander, M., Lucero, E., ... & Cleland, A. N. (2010). Quantum ground state and single-phonon control of a mechanical resonator. Nature, 464(7289), 697-703. [This paper reports an experiment in which the authors successfully demonstrated quantum control of a mechanical resonator, which is a step toward entangling massive particles.]
 	  
 	  These references provide an introduction to Franson interferometry and some approaches to entangling massive particles. I encourage you to explore further literature and more recent publications to stay up-to-date with the latest developments in the field.
--
+- Comment:
+	- Note the (unrequested) one-line summaries
+	- We haven't checked all references in detail, but the authors and titles sound correct.
