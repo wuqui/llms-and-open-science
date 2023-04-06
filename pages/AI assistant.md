@@ -8,6 +8,6 @@
 - : summary was kind of ok but lacked some nuance; output was fast.
 - Scite.ai (16€/month)
 - GPT4 - lacks direct input from documents (plugins / separate API services such as chatpdf provide the ingestion)
-- Products we did not evaluate  not know what AI components they may have:
+- Products we did not evaluate -- it is unclear whether they have
 	- https://www.connectedpapers.com/about
 	- https://www.semanticscholar.org
