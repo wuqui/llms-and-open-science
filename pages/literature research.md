@@ -18,6 +18,7 @@
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
 - {{embed [[AI assistants]]}} for science work
 - ## Use cases and tools
+-
 - ```mermaid
   graph LR
       A[summarization] --> kagiUS
