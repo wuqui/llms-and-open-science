@@ -1,6 +1,6 @@
 - Author: [[Karan]]
 - Topic: [[coding]]
--
+
 - Large language models can serve as effective tools to aid programmers in various tasks in the development workflow. As a developer, you can use it for the following tasks:
 - 1) Code generation
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
@@ -69,7 +69,7 @@
   </details>
   
   
-  2) Understanding unknown code
+- 2) Understanding unknown code
   With appropriate prompting, LLMs can explain what code snippets do step-by-step in plain English. This can be helpful when working with new codebases. For example, here is the LLM generating explanation for the cryptic fast inverse square root algorithm [ref](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
   
   
@@ -117,7 +117,7 @@
     
   </details>
     
-  3) Code translation
+- 3) Code translation
   Complementarily to the code explanation use case, LLMs can be used to translate between different coding languages. This is useful for porting code to familiar languages when working with codebases in unfamiliar languages. Here, we show how the algorithm in the previous use case can be translated from C to Python.
     
   <details>
@@ -164,7 +164,7 @@
   
   Notice that the generated explaniation also includes details language features that are different between Python and C and how to account for these differences while translating code.
   
-  4) Code review and optimization
+- 4) Code review and optimization
   LLMs can be used to review code by identifying potential bugs, inefficiencies, or areas where best practices are not followed. You can provide your code to the model and ask for suggestions or improvements.
   <details>
   <summary>Code review example</summary>
@@ -188,6 +188,7 @@
   def sum_of_squares(numbers):
     return sum(number ** 2 for number in numbers)
   </details>
+
 - As LLMs become popular, they are increasingly integrated into developer tools. Multiple IDEs have built-in LLM based tools that can help from sophisticated autocomplete (Tabnine) to code and documentation generation (Github Copilot). Chat based interfaces like ChatGPT can also be used to iteratively work on coding tasks.
   
-  While LLMs have shown great promise in assisting developers with coding tasks, there are several risks that need to be considered. Firstly, correctness issues may arise as LLMs can generate seemingly plausible but incorrect code, potentially leading to software bugs, security vulnerabilities, or performance inefficiencies. Rigorous testing and review by human developers are therefore essential to maintain code quality. Secondly, privacy issues can be a significant concern for cloud-based LLMs, as sensitive data may be exposed during the code generation process. The alternative is to use local models or follow good data practices. Lastly, plagiarism issues are also a pressing concern, as LLMs might generate code that is strikingly similar to existing copyrighted or licensed works. To avoid legal ramifications and promote originality, developers should be vigilant in reviewing the generated code and making necessary modifications to ensure compliance with intellectual property regulations.
+- While LLMs have shown great promise in assisting developers with coding tasks, there are several risks that need to be considered. Firstly, correctness issues may arise as LLMs can generate seemingly plausible but incorrect code, potentially leading to software bugs, security vulnerabilities, or performance inefficiencies. Rigorous testing and review by human developers are therefore essential to maintain code quality. Secondly, privacy issues can be a significant concern for cloud-based LLMs, as sensitive data may be exposed during the code generation process. The alternative is to use local models or follow good data practices. Lastly, plagiarism issues are also a pressing concern, as LLMs might generate code that is strikingly similar to existing copyrighted or licensed works. To avoid legal ramifications and promote originality, developers should be vigilant in reviewing the generated code and making necessary modifications to ensure compliance with intellectual property regulations.
