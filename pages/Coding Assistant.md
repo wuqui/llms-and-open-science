@@ -6,7 +6,7 @@
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
   <details>
   <summary>Code Generation Example</summary>
-  [[Prompt]]: 
+  Prompt: 
   Generate a Python function to calculate the factorial of a given number using recursion.
   
   Response:
