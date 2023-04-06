@@ -1,7 +1,7 @@
 - [[use case]]
 -
 - LLM or human-like chatbots in general have the potential to act as “conversational counterparts”: The use-cases are multifaceted:
-	- exchange ideas and learn using input from LLMs (see above)
+	- exchange ideas and learn using input from LLMs (see [[learning about a new topic]] )
 	- battling feelings of loneliness in working remote settings by having a casual or work-centered conversation
 	- exchanging thoughts and ideas about research/ideas in general
 	- creating checklists for any task
