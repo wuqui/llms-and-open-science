@@ -8,7 +8,6 @@
   * [[students]] when preparing essays as part of coursework
   * [[researchers]] when performing gap analysis to decide on new research, or looking for background information
   * members of the [public](general public) seeking to understand the current state of research in areas of their interest, e.g.
-    *  health conditions, work culture, lifecycle environmental assessment of certain products, impact of public-health interventions on the spreading of transmissible disease, etc).
-  * 
-  * communication specialists trying to build up understanding of current research by first presenting relevant context that is not known in non-specialized circles - e.g. explaining a new breakthrough in quantum communication by first providing background on entangled photon pairs
+    *  health conditions, gender-specific job applicant behaviour, environmental life-cycle assessment of consumer products, impact of public-health interventions on the spreading of transmissible disease, etc.
+  * [[communicators]] when offering context that is not known in non-specialized circles - e.g. explaining a new breakthrough in quantum communication by first providing background on entangled photon pairs
 -
