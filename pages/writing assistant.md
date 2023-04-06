@@ -1,8 +1,8 @@
 - author: [[Maroussia]]
 - topic: [[writing]]
 - Given a text as input, use the LLM to edit it.
-  Given notes or bullet points as input, use LLM to transform it into a comprehensive text.
-  <details>
+- Given notes or bullet points as input, use LLM to transform it into a comprehensive text.\n\n
+- <details>
       <summary>user_story_1</summary>
   As a non-English native speaker scholar, I am about to publish a paper in my field. The paper is drafted. I have got a couple of hours before the deadline and decide to use an LLM model to translate the draft into formal English, editing the final LLM output and making sure the scientific outcomes are accurately expressed.
   </details>
