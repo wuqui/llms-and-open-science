@@ -2,8 +2,7 @@
 - Topic: [[coding]]
 -
 - Large language models can serve as effective tools to aid programmers in various tasks in the development workflow. As a developer, you can use it for the following tasks:
-  
-  1) Code generation
+- 1) Code generation
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
   <details>
   <summary>Code Generation Example</summary>
