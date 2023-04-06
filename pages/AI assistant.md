@@ -3,9 +3,6 @@
   Products used for summarization:
 - [[Kagi's universal summarizer (US)]]
 - [[Elicit.org]]
--
-- [Scite]
-- : summary was kind of ok but lacked some nuance; output was fast.
 - [[Scite.ai]]
 - [[GPT4]]
 - Products we excluded from evaluation - unclear whether they have an AI component.
