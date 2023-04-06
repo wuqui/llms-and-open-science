@@ -56,13 +56,12 @@
 - Other use cases ([[Willison2023LingCalc]])
 	- [[summarization]] : Give them an essay and ask for a summary.
 	- [[question answering]]: given these paragraphs of text, answer this specific question about the information they represent.
-	- **fact extraction: ask for bullet points showing the facts presented by an article.
-	- **rewriting**: reword things to be more “punchy” or “professional” or “sassy” or “sardonic”—part of the fun here is using increasingly varied adjectives and seeing what happens. They’re very good with language after all!
+	- **fact extraction**: ask for bullet points showing the facts presented by an article.
+	- [[rewriting]]: reword things to be more “punchy” or “professional” or “sassy” or “sardonic”—part of the fun here is using increasingly varied adjectives and seeing what happens. They’re very good with language after all!
 	- Suggesting **titles**—actually a form of summarization.
-	- World’s most effective **thesaurus**. “I need a word that hints at X”, “I’m very Y about this situation, what could I use for Y?”—that kind of thing.
+	- World’s most effective [[thesaurus]]. “I need a word that hints at X”, “I’m very Y about this situation, what could I use for Y?”—that kind of thing.
 	- **style transfer**
-#### Principles
-
-Problems with the calculator analogy
-- reproducibility: results differ between runs (random seed, temperature)
-- interpretability of the model: unclear
+- # Principles
+- Problems with the calculator analogy
+	- reproducibility: results differ between runs (because of random seed, temperature)
+	- interpretability of the model: unclear
