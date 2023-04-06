@@ -1,8 +1,8 @@
 - [[Quirin]]
 - LLMs can be used seen as calculators for text. They can be used to make writing and reading more efficient.
-- Willison, Simon. 2023. ‘Think of Language Models like ChatGPT as a “Calculator for Words”’. 2023. https://simonwillison.net/2023/Apr/2/calculator-for-words/.
-  
-  Example use case: Giving feedback to students about their term papers, turning bullet point notes into paragraphs.
+- [Willison, Simon. 2023.]([[Willison2023LingCalc]])  ‘Think of Language Models like ChatGPT as a “Calculator for Words”’. 2023.https://simonwillison.net/2023/Apr/2/calculator-for-words/.
+- Willison2023LingCalc
+- Example use case: Giving feedback to students about their term papers, turning bullet point notes into paragraphs.
 #### Workflow
 - adding annotations to the student term paper
 - taking notes in bullet format (hierarchical, plain text)
