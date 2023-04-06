@@ -1,4 +1,4 @@
--
+- [[GPT4 interaction]]
 - Prompt:
 	- Can you provide references about Franson interferometry, preferably ones that discuss how to entangle massive particles?
 - Answer:
