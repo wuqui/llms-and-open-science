@@ -1,3 +1,4 @@
 - [[use case]]: ask a question whose answer will be composed from a multitude of sources, potentially involving encyclopedias, textbooks and refereed sources.
 - [[Scite.ai]] links to actually existing papers, in typical footnote format.
 - [[GPT4]] needs to explicitly be asked for citations. We once saw hallucinations, but in all other (~5) queries, all citations were on-target.
+-
