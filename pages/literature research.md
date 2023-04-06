@@ -35,13 +35,15 @@
 	- https://mermaid.ink/img/IGdyYXBoIExSCiAgICBBW3N1bW1hcml6YXRpb25dIC0tPiBrYWdpVVMKICAgIEJbc3ludGhlc2lzXSAtLT4gY29uc2Vuc3VzCiAgICBDW2NvbnRleHR1YWxpemF0aW9uXSAtLT4gU0Moc2NpdGUpIAogICAgQSAtLT4gQ1AoQ2hhdFBERikKICAgIEIgLS0-IFNBCiAgICBDIC0tPiBTQShzY2l0ZSBhc3Npc3RhbnQpCiAgICBBIC0tPiBlbGljaXQKICAgIEIgLS0-IGVsaWNpdAo
 -
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
-- ## Experience reports
+- ## Experience reports for some tasks
+- [[whole-document summarization]]
 - [[synthesys query]]
-- [[citation matching]]: Scite.ai's Assistant can
-	- [[Scite.ai]]'s "Assistant" function provides relevant excerpts from the cited papers and lists them every time, without specific prompting.
-- [[citation valence rating]]
-	- [[Scite.ai]] provides also a valuation of the citations to a paper - are they supportive, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
--
+- contextualization
+	- [[citation matching]]: Scite.ai's Assistant can
+		- [[Scite.ai]]'s "Assistant" function provides relevant excerpts from the cited papers and lists them every time, without specific prompting.
+	- [[citation valence rating]]
+		- [[Scite.ai]] provides also a valuation of the citations to a paper - are they supportive, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
+- Preliminary conclusions from
 	- for exploratory research, AI tools can successfully complement search and are a promising tool for discovery
 	- AI tools also succeed at synthesising basic facts that are described in multiple paper introductions
 	- AI tools may be misleading when asked highly specific technical questions, even though the answer will at first seem convincing.
