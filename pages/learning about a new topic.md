@@ -1,7 +1,6 @@
 - [[use case]]
 -
-- As a researcher or student, learning new topics and concepts is a vital aspect of your role. Traditionally, this meant poring over books, watching videos, or enrolling in classes. However, the online revolution has already 
-  expanded access to knowledge, and now LLMs have the power to take 
+- As a [[researchers]] or [[students]], learning new topics and concepts is a vital aspect of your role. Traditionally, this meant poring over books, watching videos, or enrolling in classes. However, the online revolution has already expanded access to knowledge, and now LLMs have the power to take 
   democratization of learning to the next level. With their ability to 
   break down language barriers, LLMs can make learning more accessible to a
    global audience.
@@ -13,7 +12,8 @@
   immediate and polite responses to questions, and generate practice 
   questions to test learned material, all at lightning-fast speed. These 
   features are practically impossible to achieve in a traditional 
-  classroom setting. Additionally, LLMs can analyze learners’ data to 
+  classroom setting.
+- Additionally, LLMs can analyze learners’ data to 
   identify patterns and trends in their learning. In the future, this 
   data-driven approach can help educators - or learners themselves - 
   identify areas where learners struggle and adjust their teaching methods
