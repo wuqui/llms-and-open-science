@@ -2,6 +2,7 @@
 - Topic: [[coding]]
 
 - Large language models can serve as effective tools to aid programmers in various tasks in the development workflow. As a developer, you can use it for the following tasks:
+
 - 1) Code generation
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
   <details>
@@ -67,8 +68,7 @@
     ```
   This code assumes that your data file is in plain text format with columns separated by whitespace. If the data file has a different delimiter, you can specify it using the `delimiter` parameter in the `np.loadtxt()` function, e.g., `delimiter=','` for comma-separated values.
   </details>
-  
-  
+
 - 2) Understanding unknown code
   With appropriate prompting, LLMs can explain what code snippets do step-by-step in plain English. This can be helpful when working with new codebases. For example, here is the LLM generating explanation for the cryptic fast inverse square root algorithm [ref](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
   
@@ -116,7 +116,7 @@
     ```
     
   </details>
-    
+
 - 3) Code translation
   Complementarily to the code explanation use case, LLMs can be used to translate between different coding languages. This is useful for porting code to familiar languages when working with codebases in unfamiliar languages. Here, we show how the algorithm in the previous use case can be translated from C to Python.
     
@@ -163,7 +163,7 @@
   
   
   Notice that the generated explaniation also includes details language features that are different between Python and C and how to account for these differences while translating code.
-  
+
 - 4) Code review and optimization
   LLMs can be used to review code by identifying potential bugs, inefficiencies, or areas where best practices are not followed. You can provide your code to the model and ask for suggestions or improvements.
   <details>
