@@ -1,0 +1,2 @@
+- We did **not** find a good summarizer for long texts pasted in after some context. You can ingest full pdfs in Chatpdf or use Kagi, or you can locally install llamaindex.
+-

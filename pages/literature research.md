@@ -43,9 +43,8 @@
 		- [[Scite.ai]]'s "Assistant" function provides relevant excerpts from the cited papers and lists them every time, without specific prompting.
 	- [[citation valence rating]]
 		- [[Scite.ai]] provides also a valuation of the citations to a paper - are they supportive, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
-- Preliminary conclusions from
-	- for exploratory research, AI tools can successfully complement search and are a promising tool for discovery
+- Preliminary conclusions from a variety of [[LLM interaction]]s
+	- For exploratory research, AI tools can successfully complement search and are a promising tool for discovery
 	- AI tools also succeed at synthesising basic facts that are described in multiple paper introductions
 	- AI tools may be misleading when asked highly specific technical questions, even though the answer will at first seem convincing.
 	- After limited testing, we recommend to pay for GPT4 (23€/month) rather than scite.ai (115€/yr), if you need to choose.
-- We did **not** find a good summarizer for long texts pasted in after some context. You can ingest full pdfs in Chatpdf or use Kagi, or you can locally install llamaindex.
