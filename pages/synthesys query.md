@@ -1,4 +1,8 @@
 - [[use case]]: ask a question whose answer will be composed from a multitude of sources, potentially involving encyclopedias, textbooks and refereed sources.
 - [[Scite.ai]] links to actually existing papers, in typical footnote format.
 - [[GPT4]] needs to explicitly be asked for citations. We once saw hallucinations, but in all other (~5) queries, all citations were on-target.
+- [[Scite.ai]] had differing quality levels for different domains:
+	- Very good in neuroscience (question about sharp-wave ripples in the hippocampus)
+	- Incomplete in quantum physics, slight incoherence (question about Franson interferometry)
+	- Wrong on machine learning, major incoherence (question about likelihood-free inference)
 -
