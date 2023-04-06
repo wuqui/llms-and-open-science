@@ -3,17 +3,17 @@
 - Planning **experimental designs** is another area where LLMs can be of great assistance. By incorporating the relevant information about the research question, available resources, and constraints, LLMs can help researchers develop experimental designs tailored to their specific needs. They can offer suggestions on appropriate methodologies, controls, and statistical analyses, ensuring that the experimental design is robust and scientifically sound. Moreover, LLMs can also identify potential pitfalls or limitations, enabling researchers to refine their approach and increase the likelihood of successful outcomes.
 - LLMs can play a significant role in helping to **understand errors** and **learn** from them. As students engage in scientific research, they often encounter challenges and make mistakes. LLMs can be used to provide constructive feedback on their work, identifying areas for improvement, and suggesting ways to rectify the errors. By analyzing the student's work, LLMs can offer personalized guidance and resources, fostering a deeper understanding of the subject matter and promoting the development of problem-solving skills.
 - LLMs can contribute significantly to the **optimization** of code, for example, by decreasing runtime or RAM usage. Researchers often face the challenge of efficiently executing their code to save time and computational resources. LLMs can analyze the existing code structure, identify bottlenecks or redundancies, and suggest improvements to enhance performance. By providing tailored recommendations on refactoring, parallelization, and the use of more efficient algorithms or data structures, LLMs enable researchers to optimize their code, ultimately leading to faster execution and more streamlined workflows.
-#### User Stories:
-<details>
-  <summary>Code debugging</summary>
-  As a researcher or student, I want to use LLM to debug code written in a programming language that I am not proficient in, so that I can quickly identify and fix the line of code that triggered the error and visualize my dataset accurately.
-</details>
-  
-  
-<details>
-  <summary>Experimental troubleshooting</summary> 
-  As a researcher working in a biochemical laboratory, I encountered a problem that I couldn't resolve despite my experience. After conducting extensive literature research, I hypothesized that the issue could be caused by the interaction of two chemicals. Asking the same question to an LLM resulted in three potential solutions, one of which turned out to be correct (the other two were not tested). The time spent using the LLM was a fraction of literature research.
-</details>
+- #### User Stories:
+  <details>
+    <summary>Code debugging</summary>
+    As a researcher or student, I want to use LLM to debug code written in a programming language that I am not proficient in, so that I can quickly identify and fix the line of code that triggered the error and visualize my dataset accurately.
+  </details>
+    
+    
+  <details>
+    <summary>Experimental troubleshooting</summary> 
+    As a researcher working in a biochemical laboratory, I encountered a problem that I couldn't resolve despite my experience. After conducting extensive literature research, I hypothesized that the issue could be caused by the interaction of two chemicals. Asking the same question to an LLM resulted in three potential solutions, one of which turned out to be correct (the other two were not tested). The time spent using the LLM was a fraction of literature research.
+  </details>
 #### Summary
 LLMs have emerged as powerful tools for scientific troubleshooting by offering potential solutions with very little effort. They can assist researchers and students in various aspects of their work, including fixing code issues, brainstorming and gathering ideas, planning experimental designs and resolving difficulties therein, and understanding and learning from errors. LLMs are capable of understanding complex information, providing relevant feedback, and generating novel insights, which can lead to increased efficiency for the researcher. 
 
