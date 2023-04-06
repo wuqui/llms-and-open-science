@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1680808049882
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -26,8 +26,8 @@
 :parentId "642ecfea-41c6-480c-9096-b3a310e66cf0"
 :collapsedHeight 112.97975158691406
 :nonce 1680789501919}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -53,8 +53,8 @@
 :parentId "642ecfea-41c6-480c-9096-b3a310e66cf0"
 :collapsedHeight 0
 :nonce 1680790727680}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -88,7 +88,7 @@
 :parentId "642ecfea-41c6-480c-9096-b3a310e66cf0"
 :nonce 1680790727564
 :italic false}}
-:block/updated-at 1680808049882} 
+:block/updated-at 1680808084898} 
 {:block/content "review literature"
 :block/format :markdown
 :block/left 
@@ -96,7 +96,7 @@
 :block/parent 
 {:block/uuid #uuid "642ed55a-e26f-4b46-aa2c-0b12541c0d25"}
 :block/uuid #uuid "642ed726-424c-4cba-aaab-64d428a6bf3f"} 
-{:block/created-at 1680808049875
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -115,8 +115,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791448552
 :isComplete true}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -135,8 +135,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791450185
 :isComplete true}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -155,8 +155,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791461629
 :isComplete true}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -175,8 +175,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791464116
 :isComplete true}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -195,8 +195,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791466865
 :isComplete true}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084899
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -220,8 +220,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791499414
 :italic false}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084899} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -249,8 +249,8 @@
 :nonce 1680791547113
 :italic false
 :text "finding"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084899
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -278,8 +278,8 @@
 :nonce 1680791566129
 :italic false
 :text "extracting"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084899} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -307,8 +307,8 @@
 :nonce 1680791572241
 :italic false
 :text "digesting"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -336,8 +336,8 @@
 :nonce 1680791584838
 :italic false
 :text "ranking"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -365,8 +365,8 @@
 :nonce 1680791624639
 :italic false
 :text "paper summarisation"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -395,8 +395,8 @@
 :nonce 1680791633613
 :italic false
 :text "conceptual synthesis"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -424,8 +424,8 @@
 :nonce 1680791647978
 :italic false
 :text "contextualisation"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -453,8 +453,8 @@
 :nonce 1680791664403
 :italic false
 :text "impact assessment"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -478,8 +478,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791499938
 :italic false}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -514,8 +514,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680792270348
 :italic false}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -543,8 +543,8 @@
 :nonce 1680792430629
 :italic false
 :text "brainstorming"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -572,8 +572,8 @@
 :nonce 1680792674662
 :italic false
 :text "calculator for texts"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -601,8 +601,8 @@
 :nonce 1680792733174
 :italic false
 :text "ideas generator"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -626,8 +626,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791500456
 :italic false}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -662,8 +662,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680792970152
 :italic false}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -687,8 +687,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791501377
 :italic false}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -723,8 +723,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680793059199
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -752,8 +752,8 @@
 :nonce 1680793176373
 :italic false
 :text "brainstorming"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -782,8 +782,8 @@
 :nonce 1680793218743
 :italic false
 :text "ideas generator"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -812,8 +812,8 @@
 :nonce 1680793306377
 :italic false
 :text "troubleshooting"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -842,8 +842,8 @@
 :nonce 1680793219189
 :italic false
 :text "hypotheses suggestion"}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -872,8 +872,8 @@
 :nonce 1680793219116
 :italic false
 :text "code debugging"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -882,6 +882,7 @@
 :borderRadius 0
 :index 39
 :scale [1 1]
+:refs ["troubleshooting"]
 :scaleLevel "lg"
 :fill ""
 :type "text"
@@ -898,11 +899,11 @@
 :lineHeight 1.2
 :fontSize 32
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
-:nonce 1680794910899
+:nonce 1680794910900
 :italic false
 :text "troubleshooting"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -930,8 +931,8 @@
 :nonce 1680794935018
 :italic false
 :text "code debugging"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084899
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -959,8 +960,8 @@
 :nonce 1680794935134
 :italic false
 :text "code optimisation"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084899} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -988,8 +989,8 @@
 :nonce 1680795010406
 :italic false
 :text "coding"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1017,8 +1018,8 @@
 :nonce 1680794935259
 :italic false
 :text "code translation"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1047,8 +1048,8 @@
 :nonce 1680793218941
 :italic false
 :text "design experiments"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1076,8 +1077,8 @@
 :nonce 1680793306681
 :italic false
 :text "coding"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1106,8 +1107,8 @@
 :nonce 1680793219268
 :italic false
 :text "code generation"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1135,8 +1136,8 @@
 :nonce 1680794935154
 :italic false
 :text "code generation"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1164,8 +1165,8 @@
 :nonce 1680792430713
 :italic false
 :text "taking notes"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1189,8 +1190,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791501066
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1214,8 +1215,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791501360
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1239,8 +1240,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680791501324
 :italic false}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1275,8 +1276,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680795780642
 :italic false}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1311,8 +1312,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680795814421
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1347,8 +1348,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680795857574
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1383,8 +1384,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680795885681
 :italic false}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1419,8 +1420,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680795894949
 :italic false}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1448,8 +1449,8 @@
 :nonce 1680796003158
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1477,8 +1478,8 @@
 :nonce 1680796003246
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1506,8 +1507,8 @@
 :nonce 1680796003378
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1535,8 +1536,8 @@
 :nonce 1680796191812
 :italic false
 :text "brainstorming"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1564,8 +1565,8 @@
 :nonce 1680796003096
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1593,8 +1594,8 @@
 :nonce 1680796003332
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1622,8 +1623,8 @@
 :nonce 1680796346744
 :italic false
 :text "notes taking"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1651,8 +1652,8 @@
 :nonce 1680796346743
 :italic false
 :text "draft writing"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1680,8 +1681,8 @@
 :nonce 1680796346733
 :italic false
 :text "summarising"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1709,8 +1710,8 @@
 :nonce 1680796346916
 :italic false
 :text "text generation"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1738,8 +1739,8 @@
 :nonce 1680796347072
 :italic false
 :text "abstract generation"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084899
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1767,8 +1768,8 @@
 :nonce 1680796346959
 :italic false
 :text "text edition"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084899} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1797,8 +1798,8 @@
 :nonce 1680793219283
 :italic false
 :text "code explanation"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1826,8 +1827,8 @@
 :nonce 1680792674682
 :italic false
 :text "learning assistant"}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1855,8 +1856,8 @@
 :nonce 1680796347256
 :italic false
 :text "calculator"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1885,8 +1886,8 @@
 :nonce 1680793219390
 :italic false
 :text "code translation"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1914,8 +1915,8 @@
 :nonce 1680796003746
 :italic false
 :text "LLM enabled"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1944,8 +1945,8 @@
 :nonce 1680793219265
 :italic false
 :text "question answering"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1969,8 +1970,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680802619426
 :italic false}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -1998,8 +1999,8 @@
 :nonce 1680796191886
 :italic false
 :text "ideas generator"}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2027,8 +2028,8 @@
 :nonce 1680796192024
 :italic false
 :text "hypotheses suggestion"}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2056,8 +2057,8 @@
 :nonce 1680796191952
 :italic false
 :text "question answering"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2085,8 +2086,8 @@
 :nonce 1680796346782
 :italic false
 :text "visualisation"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2095,6 +2096,7 @@
 :borderRadius 0
 :index 77
 :scale [1 1]
+:refs ["troubleshooting"]
 :scaleLevel "lg"
 :fill ""
 :type "text"
@@ -2111,11 +2113,11 @@
 :lineHeight 1.2
 :fontSize 32
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
-:nonce 1680796191845
+:nonce 1680796191846
 :italic false
 :text "troubleshooting"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2138,8 +2140,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680805519746
 :italic false}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049879
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2162,8 +2164,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680805519704
 :italic false}}
-:block/updated-at 1680808049879} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2186,8 +2188,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680805519758
 :italic false}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2215,8 +2217,8 @@
 :nonce 1680794935331
 :italic false
 :text "learning assistant"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2239,8 +2241,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680805520112
 :italic false}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049874
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084894
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2264,8 +2266,8 @@
 :parentId "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :nonce 1680802620184
 :italic false}}
-:block/updated-at 1680808049874} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084894} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2293,8 +2295,8 @@
 :nonce 1680794935322
 :italic false
 :text "code explanation"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2322,8 +2324,8 @@
 :nonce 1680792430748
 :italic false
 :text "reformulate"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049883
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2352,8 +2354,8 @@
 :nonce 1680795010486
 :italic false
 :text "storing"}}
-:block/updated-at 1680808049883} 
-{:block/created-at 1680808049881
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084897
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2381,8 +2383,8 @@
 :nonce 1680795010476
 :italic false
 :text "ordering"}}
-:block/updated-at 1680808049881} 
-{:block/created-at 1680808049880
+:block/updated-at 1680808084897} 
+{:block/created-at 1680808084896
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2410,8 +2412,8 @@
 :nonce 1680794935218
 :italic false
 :text "metadata generation"}}
-:block/updated-at 1680808049880} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084896} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2440,8 +2442,8 @@
 :nonce 1680793176529
 :italic false
 :text "visualising"}}
-:block/updated-at 1680808049882} 
-{:block/created-at 1680808049875
+:block/updated-at 1680808084898} 
+{:block/created-at 1680808084895
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2469,8 +2471,8 @@
 :nonce 1680796191892
 :italic false
 :text "visualising"}}
-:block/updated-at 1680808049875} 
-{:block/created-at 1680808049882
+:block/updated-at 1680808084895} 
+{:block/created-at 1680808084898
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2499,7 +2501,7 @@
 :nonce 1680793219164
 :italic false
 :text "statistic analysis"}}
-:block/updated-at 1680808049882})
+:block/updated-at 1680808084898})
 :pages (
 {:block/uuid #uuid "642ed55a-e26f-4b46-aa2c-0b12541c0d25"
 :block/properties 
@@ -2664,7 +2666,7 @@
 :assets []
 :shapes-index ("1f4aeca0-d48b-11ed-bf86-17833c05d54c" "c2359bb0-d4ac-11ed-9624-df2c6b942492" "4ef7ea10-d491-11ed-bf86-17833c05d54c" "f8015880-d4aa-11ed-9624-df2c6b942492" "8c066850-d491-11ed-bf86-17833c05d54c" "e6f39230-d4a8-11ed-9624-df2c6b942492" "bddf12a0-d487-11ed-bf86-17833c05d54c" "ccda82a0-d4a8-11ed-9624-df2c6b942492" "46f71780-d489-11ed-bf86-17833c05d54c" "62b02a60-d4a8-11ed-9624-df2c6b942492" "54abc7c0-d48b-11ed-bf86-17833c05d54c" "a1a79110-d4a1-11ed-9624-df2c6b942492" "17639580-d483-11ed-b673-d186009c4595" "f2089120-d485-11ed-b673-d186009c4595" "f208b830-d485-11ed-b673-d186009c4595" "9fd2a8d0-d487-11ed-bf86-17833c05d54c" "a0cbfcf0-d487-11ed-bf86-17833c05d54c" "a79e3430-d487-11ed-bf86-17833c05d54c" "a919b0a0-d487-11ed-bf86-17833c05d54c" "aabd2770-d487-11ed-bf86-17833c05d54c" "da7afc80-d487-11ed-bf86-17833c05d54c" "e5be4980-d487-11ed-bf86-17833c05d54c" "e9758520-d487-11ed-bf86-17833c05d54c" "f0e730b0-d487-11ed-bf86-17833c05d54c" "0862b200-d488-11ed-bf86-17833c05d54c" "0dd35d70-d488-11ed-bf86-17833c05d54c" "16815990-d488-11ed-bf86-17833c05d54c" "2030e730-d488-11ed-bf86-17833c05d54c" "89982112-d489-11ed-bf86-17833c05d54c" "e923d0c0-d489-11ed-bf86-17833c05d54c" "7a7a6390-d48a-11ed-bf86-17833c05d54c" "9d5608b0-d48a-11ed-bf86-17833c05d54c" "2aa60762-d48b-11ed-bf86-17833c05d54c" "5fa05882-d48b-11ed-bf86-17833c05d54c" "a5790d70-d48b-11ed-bf86-17833c05d54c" "be568fc0-d48b-11ed-bf86-17833c05d54c" "f2c71770-d48b-11ed-bf86-17833c05d54c" "54850910-d48f-11ed-bf86-17833c05d54c" "9520a5b0-d48f-11ed-bf86-17833c05d54c" "af7c6390-d48f-11ed-bf86-17833c05d54c" "bdc6fd20-d48f-11ed-bf86-17833c05d54c" "d0845a20-d48f-11ed-bf86-17833c05d54c" "eac11e50-d48f-11ed-bf86-17833c05d54c" "12458b00-d490-11ed-bf86-17833c05d54c" "428d77a0-d490-11ed-bf86-17833c05d54c" "729770e0-d490-11ed-bf86-17833c05d54c" "b4abf1e0-d490-11ed-bf86-17833c05d54c" "c23473f0-d490-11ed-bf86-17833c05d54c" "dd3e7330-d490-11ed-bf86-17833c05d54c" "9b79ca70-d491-11ed-bf86-17833c05d54c" "b5f126a0-d491-11ed-bf86-17833c05d54c" "ca1343c2-d491-11ed-bf86-17833c05d54c" "e3c94bc2-d491-11ed-bf86-17833c05d54c" "f48e0d10-d491-11ed-bf86-17833c05d54c" "fa141542-d491-11ed-bf86-17833c05d54c" "3a57cde0-d492-11ed-bf86-17833c05d54c" "7ab2df10-d492-11ed-bf86-17833c05d54c" "90d0a520-d492-11ed-bf86-17833c05d54c" "aafcc780-d492-11ed-bf86-17833c05d54c" "bee92ea0-d492-11ed-bf86-17833c05d54c" "fc8a01d0-d492-11ed-bf86-17833c05d54c" "07549c60-d493-11ed-bf86-17833c05d54c" "10113e80-d493-11ed-bf86-17833c05d54c" "1d54ef60-d493-11ed-bf86-17833c05d54c" "2d6b2130-d493-11ed-bf86-17833c05d54c" "4015b980-d493-11ed-bf86-17833c05d54c" "4fdda440-d493-11ed-bf86-17833c05d54c" "6f43aaa0-d493-11ed-bf86-17833c05d54c" "93b3d270-d493-11ed-bf86-17833c05d54c" "9eb2c370-d493-11ed-bf86-17833c05d54c" "e2c3d7c0-d493-11ed-bf86-17833c05d54c" "57c3a000-d494-11ed-bf86-17833c05d54c" "5ec7f7e0-d4a1-11ed-9624-df2c6b942492" "c961eff0-d4a3-11ed-9624-df2c6b942492" "d8440e90-d4a3-11ed-9624-df2c6b942492" "0e406660-d4a4-11ed-9624-df2c6b942492" "8703ed60-d4a4-11ed-9624-df2c6b942492" "481e5340-d4a6-11ed-9624-df2c6b942492" "300bec50-d4aa-11ed-9624-df2c6b942492" "f8974500-d4ac-11ed-9624-df2c6b942492" "1c91a090-d4ad-11ed-9624-df2c6b942492" "50a980f0-d4ad-11ed-9624-df2c6b942492" "6c109450-d4ad-11ed-9624-df2c6b942492" "7eb25300-d4ad-11ed-9624-df2c6b942492" "9d96f460-d4ad-11ed-9624-df2c6b942492" "aba12990-d4ad-11ed-9624-df2c6b942492" "c368a800-d4ad-11ed-9624-df2c6b942492")}}
 :block/journal? false
-:block/updated-at 1680808049874
+:block/updated-at 1680808084894
 :block/created-at 1680789482757
 :block/type "whiteboard"
 :block/name "diagram"
