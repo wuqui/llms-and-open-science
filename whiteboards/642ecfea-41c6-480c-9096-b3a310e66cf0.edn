@@ -1,0 +1,69 @@
+{:blocks (
+{:block/created-at 1680789540783
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Open Science"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [152.2269287109375 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "17639580-d483-11ed-b673-d186009c4595"
+:noFill false
+:point [346.4185307939167 136.03557968139648]
+:parentId "642ecfea-41c6-480c-9096-b3a310e66cf0"
+:collapsedHeight 112.97975158691406
+:nonce 1680789501788}}
+:block/updated-at 1680789540783} 
+{:block/created-at 1680789540784
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:fill ""
+:type "box"
+:size [407.7089538574219 310.7449188232422]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "2553b300-d483-11ed-b673-d186009c4595"
+:fontWeight 400
+:noFill false
+:point [309.36341857910156 218.44001388549805]
+:fontSize 20
+:parentId "642ecfea-41c6-480c-9096-b3a310e66cf0"
+:nonce 1680789525168
+:italic false}}
+:block/updated-at 1680789540784})
+:pages (
+{:block/created-at 1680789482757
+:block/name "642ecfea-41c6-480c-9096-b3a310e66cf0"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "642ecfea-41c6-480c-9096-b3a310e66cf0"
+:name "642ecfea-41c6-480c-9096-b3a310e66cf0"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("17639580-d483-11ed-b673-d186009c4595" "2553b300-d483-11ed-b673-d186009c4595")}}
+:block/type "whiteboard"
+:block/updated-at 1680789540783
+:block/uuid #uuid "642ecfea-41c6-480c-9096-b3a310e66cf0"})}
