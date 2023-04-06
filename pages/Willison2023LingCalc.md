@@ -1,0 +1,2 @@
+- [[literature]], [[blog post]]
+- Willison, Simon. 2023. ‘Think of Language Models like ChatGPT as a “Calculator for Words”’. 2023. https://simonwillison.net/2023/Apr/2/calculator-for-words/.
