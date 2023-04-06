@@ -38,9 +38,6 @@
 - ## Experience reports
 - [[synthesys query]]
 - Domains
-	- Very good in neuroscience
-	- Incomplete in quantum physics, slight incoherence
-	- Wrong on machine learning, major incoherence
 - Tools
 	- scite.ai's "Assistant" function provides relevant excerpts from the cited papers and lists them everytime, without specific prompting.
 	- GPT4 may need prompt tuning, but the references are correct and very relevant.
@@ -51,4 +48,4 @@
 	- AI tools also succeed at synthesizing basic facts that are described in multiple paper introductions
 	- AI tools may be misleading when asked highly specific technical questions.
 	- After limited testing, we recommend to pay for GPT4 (23€/month) rather than scite.ai (115€/yr), if you need to choose.
-- We did **not** find a good summarizer for long texts pasted in after some context.  -- you are redirected towards locally installing llamaindex
+- We did **not** find a good summarizer for long texts pasted in after some context. You can ingest full pdfs in Chatpdf or use Kagi, or you can locally install llamaindex.
