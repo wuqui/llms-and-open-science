@@ -1,2 +1,3 @@
 - GPT4 lacks converters to ingest documents (
-- Plugins or  / separate API services such as chatpdf provide the ingestion)
+- Plugins or separate services over the API such as https://chatpdf.com provide the ingestion capabilities.
+- Summarization is severely limited via the ChatGPT-Plus account to a
