@@ -1,3 +1,6 @@
 ---
 alias: LLM
+alias: LLMs
 ---
+
+-
