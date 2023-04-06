@@ -3,25 +3,24 @@
 - [Willison, Simon. 2023.]([[Willison2023LingCalc]])  ‘Think of Language Models like ChatGPT as a “Calculator for Words”’. 2023.https://simonwillison.net/2023/Apr/2/calculator-for-words/.
 - Example use case: Giving feedback to students about their term papers, turning bullet point notes into paragraphs.
 - # Workflow
-- adding annotations to the student term paper
-- taking notes in bullet format (hierarchical, plain text)
-- provide an instructive prompt for the LLM
-- having an LLM convert these bullets to a paragraph
-- checking and editing the paragraph
-- potentially refine it again using the LLM (e.g. ‘make this 30% shorter’)
-#### Prompt
-
-> - here’s a prompt to instruct you with the task i want you to do for me.
-> - i’m marking term papers for a university course in linguistics.
-> - i already added comments about the term paper in the submitted pdf.
-> - now, i also want to write a short paragraph
-> 	- to explain why the paper received this grade
-> 	- and to provide feedback to the student
-> - i will give you a couple of bullet points with my notes about the paper.
-> - i will provide the overall grade i gave the paper at the start. grades go from 1.0 (best) to 4.0 (worst grade that’s still a pass) to 5.0 (fail).
-> - please turn this into a paragraph i can use.
-> - it should be phrased in third person, not addressing the student directly.
-> - i’m going to give you my bullets in the next chat message below.
+	- adding annotations to the student term paper
+	- taking notes in bullet format (hierarchical, plain text)
+	- provide an instructive prompt for the LLM
+	- having an LLM convert these bullets to a paragraph
+	- checking and editing the paragraph
+	- potentially refine it again using the LLM (e.g. ‘make this 30% shorter’)
+- # Prompt
+	- here’s a prompt to instruct you with the task i want you to do for me.
+	- i’m marking term papers for a university course in linguistics.
+	- i already added comments about the term paper in the submitted pdf.
+	- now, i also want to write a short paragraph
+	- to explain why the paper received this grade
+	- and to provide feedback to the student
+	- i will give you a couple of bullet points with my notes about the paper.
+	- i will provide the overall grade i gave the paper at the start. grades go from 1.0 (best) to 4.0 (worst grade that’s still a pass) to 5.0 (fail).
+	- please turn this into a paragraph i can use.
+	- it should be phrased in third person, not addressing the student directly.
+	- i’m going to give you my bullets in the next chat message below.
 #### Bullet point notes
 
 > Grade: 4.0
