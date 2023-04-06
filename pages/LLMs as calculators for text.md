@@ -50,7 +50,7 @@
 		- theoretical background
 		- previous work
 		- no (linguistic) implications pointed out
-- # Output
+- # Output  
   
   > The paper received a grade of 4.0 due to several factors. The writing was generally cohesive, with few language errors, and followed an established structure. However, the citation style did not adhere to the institute's conventions or any other established style. The research question was interesting, but lacked linguistic substance and was too broad. The theoretical framework did not provide sufficient background on neurodivergence and had limited linguistic context or reference to previous work on relevant concepts. The data collection and method were well-executed, with a transparent description of the large corpus, good preprocessing steps, and effective use of examples. An interesting additional comparison was made with ChatGPT. Unfortunately, the results section focused mainly on methodological results, with little linguistic analysis. In the discussion, there was a lack of linguistic focus, insufficient synthesis of results, and inadequate engagement with the theoretical background and previous work. Additionally, no linguistic implications were pointed out.
   
