@@ -52,7 +52,7 @@
 		- no (linguistic) implications pointed out
 - [[output]] of [[ChatGPT]]
 	- > The paper received a grade of 4.0 due to several factors. The writing was generally cohesive, with few language errors, and followed an established structure. However, the citation style did not adhere to the institute's conventions or any other established style. The research question was interesting, but lacked linguistic substance and was too broad. The theoretical framework did not provide sufficient background on neurodivergence and had limited linguistic context or reference to previous work on relevant concepts. The data collection and method were well-executed, with a transparent description of the large corpus, good preprocessing steps, and effective use of examples. An interesting additional comparison was made with ChatGPT. Unfortunately, the results section focused mainly on methodological results, with little linguistic analysis. In the discussion, there was a lack of linguistic focus, insufficient synthesis of results, and inadequate engagement with the theoretical background and previous work. Additionally, no linguistic implications were pointed out.
-- Other use cases ([[Willison2023LingCalc]])
+- Other use cases ([[Willison2023LingCalc]]) of LLMs as linguistic calculators
 	- [[summarization]] : Give them an essay and ask for a summary.
 	- [[question answering]]: given these paragraphs of text, answer this specific question about the information they represent.
 	- **fact extraction**: ask for bullet points showing the facts presented by an article.
@@ -60,7 +60,6 @@
 	- Suggesting **titles**—actually a form of summarization.
 	- World’s most effective [[thesaurus]]. “I need a word that hints at X”, “I’m very Y about this situation, what could I use for Y?”—that kind of thing.
 	- **style transfer**
-- # Principles
-- Problems with the calculator analogy
-	- reproducibility: results differ between runs (because of random seed, temperature)
-	- interpretability of the model: unclear
+- # Problems with the calculator analogy
+	- [[reproducibility]]: results differ between runs (because of random seed, temperature)
+	- [[interpretability]] of the model: unclear
