@@ -30,7 +30,6 @@
   </details>
   
   This is a powerful application of LLMs. It is especially useful for generating code for routine tasks such as generating a boilerplate skeleton for your code, data processing, visualizing etc. By judicious usage of LLMs, developers can increase their productivity significantly.
-  
   <details>
   <summary>Data Processing Example</summary>
     Prompt: I have a data file in the following format. Can you give me python code to ingest it in numpy arrays? 
@@ -71,8 +70,6 @@
 
 - 2) Understanding unknown code
   With appropriate prompting, LLMs can explain what code snippets do step-by-step in plain English. This can be helpful when working with new codebases. For example, here is the LLM generating explanation for the cryptic fast inverse square root algorithm [ref](https://en.wikipedia.org/wiki/Fast_inverse_square_root).
-  
-  
   <details>
   <summary>Code Explanation Example</summary>
   Prompt: What does this code snippet do?
@@ -119,7 +116,6 @@
 
 - 3) Code translation
   Complementarily to the code explanation use case, LLMs can be used to translate between different coding languages. This is useful for porting code to familiar languages when working with codebases in unfamiliar languages. Here, we show how the algorithm in the previous use case can be translated from C to Python.
-    
   <details>
   <summary>Code Translation Example</summary>
   Prompt: Translate this code snippet to Python
