@@ -52,8 +52,7 @@
 :italic false}}
 :block/updated-at 1680789540784})
 :pages (
-{:block/created-at 1680789482757
-:block/name "642ecfea-41c6-480c-9096-b3a310e66cf0"
+{:block/uuid #uuid "642ecfea-41c6-480c-9096-b3a310e66cf0"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
@@ -64,6 +63,8 @@
 :nonce 1
 :assets []
 :shapes-index ("17639580-d483-11ed-b673-d186009c4595" "2553b300-d483-11ed-b673-d186009c4595")}}
-:block/type "whiteboard"
 :block/updated-at 1680789540783
-:block/uuid #uuid "642ecfea-41c6-480c-9096-b3a310e66cf0"})}
+:block/created-at 1680789482757
+:block/type "whiteboard"
+:block/name "diagram"
+:block/original-name "diagram"})}
