@@ -1,6 +1,7 @@
-- Aut
-  
-  Large language models can serve as effective tools to aid programmers in various tasks in the development workflow. As a developer, you can use it for the following tasks:
+- Author: [[Karan]]
+- Topic: [[coding]]
+-
+- Large language models can serve as effective tools to aid programmers in various tasks in the development workflow. As a developer, you can use it for the following tasks:
   
   1) Code generation
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
@@ -187,8 +188,6 @@
   def sum_of_squares(numbers):
     return sum(number ** 2 for number in numbers)
   </details>
-  
-  
-  As LLMs become popular, they are increasingly integrated into developer tools. Multiple IDEs have built-in LLM based tools that can help from sophisticated autocomplete (Tabnine) to code and documentation generation (Github Copilot). Chat based interfaces like ChatGPT can also be used to iteratively work on coding tasks.
+- As LLMs become popular, they are increasingly integrated into developer tools. Multiple IDEs have built-in LLM based tools that can help from sophisticated autocomplete (Tabnine) to code and documentation generation (Github Copilot). Chat based interfaces like ChatGPT can also be used to iteratively work on coding tasks.
   
   While LLMs have shown great promise in assisting developers with coding tasks, there are several risks that need to be considered. Firstly, correctness issues may arise as LLMs can generate seemingly plausible but incorrect code, potentially leading to software bugs, security vulnerabilities, or performance inefficiencies. Rigorous testing and review by human developers are therefore essential to maintain code quality. Secondly, privacy issues can be a significant concern for cloud-based LLMs, as sensitive data may be exposed during the code generation process. The alternative is to use local models or follow good data practices. Lastly, plagiarism issues are also a pressing concern, as LLMs might generate code that is strikingly similar to existing copyrighted or licensed works. To avoid legal ramifications and promote originality, developers should be vigilant in reviewing the generated code and making necessary modifications to ensure compliance with intellectual property regulations.
