@@ -30,4 +30,22 @@
       B --> elicit
   ```
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
-- Experience reports
+- ## Experience reports
+- Findings about literature research:
+- hallucinations produce inexact but plausible-sounding statements that make cross-checking necessary (and tiresome).
+- for a very first approach to a field, however, the list of provided references can be useful. Scite links to actually existing papers, in typical footnote format. GPT4 needs to explicitly be asked for citations. GPT3.5 provided substantially less complete answers than GPT4 (but also hallucinated less).
+- Domains
+	- Very good in neuroscience
+	- Incomplete in quantum physics, slight incoherence
+	- Wrong on machine learning, major incoherence
+- Tools
+	- scite.ai's "Assistant" function provides relevant excerpts from the cited papers and lists them everytime, without specific prompting.
+	- GPT4 may need prompt tuning, but the references are correct and very relevant.
+	- GPT4 produced answers that were more comprehensive and prompt-related than scite.ai
+	- scite.ai provides also a valuation of the citations to a paper - are they confirmatory, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
+- Fazit
+	- for exploratory research, AI tools can successfully complement search and are a promising tool for discovery
+	- AI tools also succeed at synthesizing basic facts that are described in multiple paper introductions
+	- AI tools may be misleading when asked highly specific technical questions.
+	- After limited testing, we recommend to pay for GPT4 (23€/month) rather than scite.ai (115€/yr), if you need to choose.
+- we found good summarizer for long texts pasted in with context -- you are redirected towards locally installing llamaindex
