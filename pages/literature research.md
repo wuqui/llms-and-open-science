@@ -18,19 +18,21 @@
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
 - {{embed [[AI assistants]]}} for science work
 - ## Use cases and tools
-- ```mermaid
-  ```
-- ```mermaid
-  graph LR
-      A[summarization] --> kagiUS
-      B[synthesis] --> consensus
-      C[contextualization] --> SC(scite) 
-      A --> CP(ChatPDF)
-      B --> SA
-      C --> SA(scite assistant)
-      A --> elicit
-      B --> elicit
-  ```
+- <img src="https://mermaid.ink/img/IGdyYXBoIExSCiAgICBBW3N1bW1hcml6YXRpb25dIC0tPiBrYWdpVVMKICAgIEJbc3ludGhlc2lzXSAtLT4gY29uc2Vuc3VzCiAgICBDW2NvbnRleHR1YWxpemF0aW9uXSAtLT4gU0Moc2NpdGUpIAogICAgQSAtLT4gQ1AoQ2hhdFBERikKICAgIEIgLS0-IFNBCiAgICBDIC0tPiBTQShzY2l0ZSBhc3Npc3RhbnQpCiAgICBBIC0tPiBlbGljaXQKICAgIEIgLS0-IGVsaWNpdAo" />
+  collapsed:: true
+  {{renderer :mermaid_itpuhzlzaa}}
+	- ```mermaid
+	  graph LR
+	      A[summarization] --> kagiUS
+	      B[synthesis] --> consensus
+	      C[contextualization] --> SC(scite) 
+	      A --> CP(ChatPDF)
+	      B --> SA
+	      C --> SA(scite assistant)
+	      A --> elicit
+	      B --> elicit
+	  ```
+-
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
 - ## Experience reports
 - Findings about literature research:
