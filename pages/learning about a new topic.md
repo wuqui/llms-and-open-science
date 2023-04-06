@@ -1,6 +1,6 @@
 - [[use case]]
 -
-- As [[researchers]] or [[students]], learning new topics and concepts is a vital aspect of the role (). Traditionally, this meant poring over books, watching videos, or enrolling in classes. However, the online revolution has already expanded access to knowledge, and now LLMs have the power to take democratization of learning to the next level. With their ability to break down language barriers, LLMs can make learning more accessible to a global audience.
+- As [[researchers]] or [[students]], learning new topics and concepts is a vital aspect of the role. Traditionally, this meant poring over books, watching videos, or enrolling in classes. However, the online revolution has already expanded access to knowledge, and now LLMs have the power to take democratization of learning to the next level. With their ability to break down language barriers, LLMs can make learning more accessible to a global audience.
 - LLMs complement traditional learning methods and may 
   even surpass them. By providing interactive learning experiences that 
   simulate real-world scenarios, LLMs can engage learners in a way that 
@@ -23,4 +23,4 @@
   style and knowledge-level of learners. This on-demand production of 
   academic resources has the potential to completely shift the way we 
   learn, teach, and create educational material.
-- If that will become the mode of learning, social experience can get lost with implications for social skills and citizenship
+- If that will become the mode of learning, social experience can get lost with implications for social skills, citizenship and the [[general public]]
