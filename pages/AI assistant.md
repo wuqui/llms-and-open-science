@@ -2,7 +2,7 @@
   
   Products used for summarization:
 - [[kagi Universal Summarizer (US)]]
-- [Elicit]()
+- [[Elicit.org]]
 - https://www.semanticscholar.org
 - [Scite]
 - : summary was kind of ok but lacked some nuance; output was fast.
