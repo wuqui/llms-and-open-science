@@ -1,3 +1,15 @@
 - [[use case]]
+- Potential risks:
+- biased information due to biased training data
+- becoming over-reliant and losing critical thinking-skills
+- unhelpful or dangerous information due to missing filters (a chatbot supposedly supported a man’s suicide thoughts: [https://interestingengineering.com/culture/belgian-woman-blames-chatgpt-like-chatbot-eliza-for-her-husbands-suicide](https://interestingengineering.com/culture/belgian-woman-blames-chatgpt-like-chatbot-eliza-for-her-husbands-suicide)
 -
 -
+- LLM or human-like chatbots in general have the potential to act as “Communication Counterparts”: The use-cases are multifaceted:
+	- exchange ideas and learn using input from LLMs (see above)
+	- battling feelings of loneliness in working remote settings by having a casual or work-centered conversation
+	- exchanging thoughts and ideas about research/ideas in general
+	- creating checklists for any task
+	- getting advice (research project, live improvements, career advice)
+	- advice for psychological problems
+	- talking with any person you want to talk to, also lost loved ones
