@@ -1,1 +1,3 @@
-- [[Scite.ai]] links to actually existing papers, in typical footnote format. GPT4 needs to explicitly be asked for citations. GPT3.5 provided substantially less complete answers than GPT4 (but also hallucinated less).
+- [[use case]]: get
+- [[Scite.ai]] links to actually existing papers, in typical footnote format.
+- [[GPT4]] needs to explicitly be asked for citations. GPT3.5 provided substantially less complete answers than GPT4 (but also hallucinated less).
