@@ -39,7 +39,8 @@
 - [[synthesys query]]
 - [[citation matching]]: Scite.ai's Assistant can
 	- [[Scite.ai]]'s "Assistant" function provides relevant excerpts from the cited papers and lists them every time, without specific prompting.
-	- cite.ai provides also a valuation of the citations to a paper - are they confirmatory, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
+- [[citation valence rating]]
+	- [[Scite.ai]] provides also a valuation of the citations to a paper - are they supportive, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
 - Fazit
 	- for exploratory research, AI tools can successfully complement search and are a promising tool for discovery
 	- AI tools also succeed at synthesizing basic facts that are described in multiple paper introductions
