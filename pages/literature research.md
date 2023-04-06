@@ -16,7 +16,7 @@
   * **Paper summarization**: as a researcher, I want to obtain a summary of a paper that highlights major results. 
   * **Conceptual synthesis**: as a researcher, as a citizen, as a student, I want to obtain a consolidated definition of a scholarly concept that combines encyclopedia and research knowledge and that substantiates statements via citations of peer-reviewed literature
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
-- {{embed [[AI assistants]]}} for science work
+- {{embed [[AI assistant]]}} for science work
 - ## Use cases and tools
 - <img src="https://mermaid.ink/img/IGdyYXBoIExSCiAgICBBW3N1bW1hcml6YXRpb25dIC0tPiBrYWdpVVMKICAgIEJbc3ludGhlc2lzXSAtLT4gY29uc2Vuc3VzCiAgICBDW2NvbnRleHR1YWxpemF0aW9uXSAtLT4gU0Moc2NpdGUpIAogICAgQSAtLT4gQ1AoQ2hhdFBERikKICAgIEIgLS0-IFNBCiAgICBDIC0tPiBTQShzY2l0ZSBhc3Npc3RhbnQpCiAgICBBIC0tPiBlbGljaXQKICAgIEIgLS0-IGVsaWNpdAo" />
   collapsed:: true
