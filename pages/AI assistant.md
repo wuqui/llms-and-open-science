@@ -6,7 +6,7 @@
 - https://www.semanticscholar.org
 - [Scite]
 - : summary was kind of ok but lacked some nuance; output was fast.
-- Elicit: seems very geared towards clinical trials (sections bar). First pdf upload failed. Second attempt: good one-sentence summary, but none of the pre-specified queries were relevant. Seems like a stiff system.
 - Scite.ai (16€/month)
 - GPT4 - lacks direct input from documents (plugins / separate API services such as chatpdf provide the ingestion)
+- Products we did not evaluate of which we did not know what
 - connected papers (don't know how AI driven that is yet)
