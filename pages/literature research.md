@@ -18,4 +18,16 @@
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
 - {{embed [[AI assistants]]}} for science work
 - ## Use cases and tools
-- /diag
+- ```mermaid
+  graph LR
+      A[summarization] --> kagiUS
+      B[synthesis] --> consensus
+      C[contextualization] --> SC(scite) 
+      A --> CP(ChatPDF)
+      B --> SA
+      C --> SA(scite assistant)
+      A --> elicit
+      B --> elicit
+  ```
+- Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
+- Experience reports
