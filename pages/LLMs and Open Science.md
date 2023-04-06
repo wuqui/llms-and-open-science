@@ -10,4 +10,4 @@
 - LLMs and assistive AI technologies in general will have profound impacts on education and research. How the situation will unfold depends on techological, political and cultural feedback loops that are hard to anticipate. We close with a few open questions on broader issues: copyright, the value of static content and possible human empowerment from the perspective of inclusivity.
 - {{embed [[use cases]]}}
 - {{embed [[user roles]]}}
-- {{embed [[open science principles]]}}
+- {{embed [[Open Science principles]]}}
