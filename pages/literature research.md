@@ -16,7 +16,7 @@
   * **Paper summarization**: as a researcher, I want to obtain a summary of a paper that highlights major results. 
   * **Conceptual synthesis**: as a researcher, as a citizen, as a student, I want to obtain a consolidated definition of a scholarly concept that combines encyclopedia and research knowledge and that substantiates statements via citations of peer-reviewed literature
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
-- {{embed [[AI assistant]]}} for science work
+- {{embed [[AI assistant]]}}
 - ## Use cases and tools
 - <img src="https://mermaid.ink/img/IGdyYXBoIExSCiAgICBBW3N1bW1hcml6YXRpb25dIC0tPiBrYWdpVVMKICAgIEJbc3ludGhlc2lzXSAtLT4gY29uc2Vuc3VzCiAgICBDW2NvbnRleHR1YWxpemF0aW9uXSAtLT4gU0Moc2NpdGUpIAogICAgQSAtLT4gQ1AoQ2hhdFBERikKICAgIEIgLS0-IFNBCiAgICBDIC0tPiBTQShzY2l0ZSBhc3Npc3RhbnQpCiAgICBBIC0tPiBlbGljaXQKICAgIEIgLS0-IGVsaWNpdAo" />
   collapsed:: true
@@ -32,11 +32,10 @@
 	      A --> elicit
 	      B --> elicit
 	  ```
+	- https://mermaid.ink/img/IGdyYXBoIExSCiAgICBBW3N1bW1hcml6YXRpb25dIC0tPiBrYWdpVVMKICAgIEJbc3ludGhlc2lzXSAtLT4gY29uc2Vuc3VzCiAgICBDW2NvbnRleHR1YWxpemF0aW9uXSAtLT4gU0Moc2NpdGUpIAogICAgQSAtLT4gQ1AoQ2hhdFBERikKICAgIEIgLS0-IFNBCiAgICBDIC0tPiBTQShzY2l0ZSBhc3Npc3RhbnQpCiAgICBBIC0tPiBlbGljaXQKICAgIEIgLS0-IGVsaWNpdAo
 -
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
 - ## Experience reports
-- Findings about literature research:
-- hallucinations produce inexact but plausible-sounding statements that make cross-checking necessary (and tiresome).
 - for a very first approach to a field, however, the list of provided references can be useful. Scite links to actually existing papers, in typical footnote format. GPT4 needs to explicitly be asked for citations. GPT3.5 provided substantially less complete answers than GPT4 (but also hallucinated less).
 - Domains
 	- Very good in neuroscience
