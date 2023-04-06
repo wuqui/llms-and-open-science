@@ -37,11 +37,9 @@
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
 - ## Experience reports
 - [[synthesys query]]
-- Domains
+-
 - Tools
 	- scite.ai's "Assistant" function provides relevant excerpts from the cited papers and lists them everytime, without specific prompting.
-	- GPT4 may need prompt tuning, but the references are correct and very relevant.
-	- GPT4 produced answers that were more comprehensive and prompt-related than scite.ai
 	- scite.ai provides also a valuation of the citations to a paper - are they confirmatory, neutral or contrasting? This may be of different relevance depending of the field - in neuroscience, quantum physics and machine learning most citations were neutral.
 - Fazit
 	- for exploratory research, AI tools can successfully complement search and are a promising tool for discovery
