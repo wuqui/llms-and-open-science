@@ -1,0 +1,2 @@
+- GPT4 lacks converters to ingest documents (
+- Plugins or  / separate API services such as chatpdf provide the ingestion)
