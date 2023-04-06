@@ -1,5 +1,5 @@
-url:: https://elicit.org
-
+- Elicit is an [[AI assistant]] for research.
+- url:: https://elicit.org
 - capture:: ![image.png](../assets/image_1680800329436_0.png)
 - capture:: ![image.png](../assets/image_1680796743771_0.png)
 - Elicit seems specialized on the analysis of biomedical papers and clinical trials: its preconfigured queries (bottom-left column) pertain *interventions*, *outcomes measured*, and *number of participants*.
