@@ -17,3 +17,5 @@
   * **Conceptual synthesis**: as a researcher, as a citizen, as a student, I want to obtain a consolidated definition of a scholarly concept that combines encyclopedia and research knowledge and that substantiates statements via citations of peer-reviewed literature
   * **Contextualization and impact assessment**: as a researcher, I want to see citations to a paper in context. Were those citations supportive, neutral or contrasting, i.e. challenging the original claims.
 - {{embed [[AI assistants]]}} for science work
+- ## Use cases and tools
+- /diag
