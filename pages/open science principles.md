@@ -1,0 +1,5 @@
+- [[openness]]
+- [[interpretability]]
+- [[sharing]]
+- [[reproducibility]]
+- (data security/privacy)

@@ -1,0 +1,9 @@
+- scientist
+	- teacher
+	- researcher
+	- grant writer
+	- editor
+	- paper writer
+- [[students]]
+- commercial use
+- society / general public
