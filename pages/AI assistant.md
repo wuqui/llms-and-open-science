@@ -1,7 +1,7 @@
 - This list does not include Bard (only US-accessible) and Bing (requires MS Edge, proprietary software). We included only services that offer a free trial (but we used a paid ChatGPT subscription for access to GPT4)
   
   Products used for summarization:
-- [[kagi Universal Summarizer (US)]]
+- [[Kagi's universal summarizer (US)]]
 - [[Elicit.org]]
 - https://www.semanticscholar.org
 - [Scite]
