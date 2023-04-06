@@ -6,7 +6,7 @@
   You can use large language models to generate code snippets or complete functions based on your description of the desired functionality. Just describe what you want to achieve, and the model can generate code examples in your desired programming language.
   <details>
   <summary>Code Generation Example</summary>
-  Prompt: 
+  [[Prompt]]: 
   Generate a Python function to calculate the factorial of a given number using recursion.
   
   Response:
@@ -28,7 +28,7 @@
   
   </details>
   
-  This is a powerful application of LLMs. It is especially useful for generating code for routine tasks such as generating a boilerplate skeleton for your code, data processing, visualizing etc. By judicious usage of LLMs, devlopers can increase their productivity significantly.
+  This is a powerful application of LLMs. It is especially useful for generating code for routine tasks such as generating a boilerplate skeleton for your code, data processing, visualizing etc. By judicious usage of LLMs, developers can increase their productivity significantly.
   
   <details>
   <summary>Data Processing Example</summary>
