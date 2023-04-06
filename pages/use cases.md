@@ -1,6 +1,6 @@
 - [[troubleshooting]]
 - [[coding]]
-- [[literature review]]
+- [[Literature Research]]
 - writing/editing/production papers
 - conversational counterpart
 - LLMs as calculators for text
