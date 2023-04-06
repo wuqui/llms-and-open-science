@@ -1,3 +1,4 @@
+- [[literature research]]
 - [[troubleshooting]]
 - [[coding]]
 - writing/editing/production papers
