@@ -21,35 +21,33 @@
 	- please turn this into a paragraph i can use.
 	- it should be phrased in third person, not addressing the student directly.
 	- i’m going to give you my bullets in the next chat message below.
-#### Bullet point notes
-
-> Grade: 4.0
-> 
-> - writing: 
-> 	- language: few errors, cohesive
-> 	- structure: following established structure
-> 	- citation style: not according to institute conventions (or another established style)
-> - research question and hypothesis
-> 	- interesting topic
-> 	- RQ lacks linguistic substance
-> 	- RQ too broad
-> - theoretical framework
-> 	- no background for neurodivergence
-> 	- little linguistic background and previous work on relevant concepts
-> - data and method
-> 	- data collection: compiled big corpus
-> 		- transparent description
-> 		- good queries using TAGS
-> 	- preprocessing steps: good measures to remove irrelevant data
-> 	- good use of examples
-> 	- interesting additional use and comparison of ChatGPT
-> - results
-> 	- mainly methodological results presented
-> 	- little linguistic analysis
-> - discussion
-> 	- too little linguistic focus
-> 	- not enough synthesis of results
-> 	- too little discussion in terms of
+- # Bullet point notes
+	- Grade: 4.0
+	- writing:
+	- language: few errors, cohesive
+	- structure: following established structure
+	- citation style: not according to institute conventions (or another established style)
+	- research question and hypothesis
+	- interesting topic
+	- RQ lacks linguistic substance
+	- RQ too broad
+	- theoretical framework
+	- no background for neurodivergence
+	- little linguistic background and previous work on relevant concepts
+	  > - data and method
+	  > 	- data collection: compiled big corpus
+	  > 		- transparent description
+	  > 		- good queries using TAGS
+	  > 	- preprocessing steps: good measures to remove irrelevant data
+	  > 	- good use of examples
+	  > 	- interesting additional use and comparison of ChatGPT
+	  > - results
+	  > 	- mainly methodological results presented
+	  > 	- little linguistic analysis
+	  > - discussion
+	  > 	- too little linguistic focus
+	  > 	- not enough synthesis of results
+	  > 	- too little discussion in terms of
 	- theoretical background
 	- previous work
 	  > 	- no (linguistic) implications pointed out
