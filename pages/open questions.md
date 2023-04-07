@@ -6,7 +6,7 @@
 - For science, what is the realm of "common knowledge"?
   Common knowledge can go unattributed but research knowledge needs attribution if the meritocratic system currently in place is to continue.
 ## What will be the future of pregenerated content vs. personalized content produced in real time?
-- Today, creating new materials (books, articles, blog posts) seems like the hot new thing to do with LLMs. But if you could create custom content based on a query *plus* a
+- Today, creating new materials (books, articles, blog posts) seems like the hot new thing to do with LLMs. But if you could instantly access personalized content based on a query (replacement for the search string of lore) *plus* some or even a large quantity of context reflecting your previous knowlede
 ## Inclusivity
 * Leveling the playing field for non-native speakers?
 * Helping conceptual thinkers vs. implementors
