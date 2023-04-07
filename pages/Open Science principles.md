@@ -3,5 +3,5 @@
 - [[sharing]]
 - [[reproducibility]]
 - [[transparency]]
-- [[didactic]]
+- [[didacticism]]
 - [[attribution]]
