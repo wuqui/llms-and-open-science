@@ -1,6 +1,8 @@
 - # Copyright in the age of LLMs
 - What will be the status of attribution and copyright/copyleft?
-- Does an LLM launder copyrighted information into useable
+- Reminder: copyright is tied to the particular expression of an idea
+- Does an LLM, by synthesizing and paraphrasing launder copyrighted information into useable text or code that needs not acknowledge sources?
+- Conversely, do LLMs allow to overcome the absurd over
 ### What is the realm of "common knowledge"?
 Common knowledge can go unattributed but research knowledge needs attribution if the meritocratic system currently in place is to continue.
 ## What will be the future of pregenerated content vs. personalized content produced in real time?
