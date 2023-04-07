@@ -37,7 +37,7 @@
 - Note: some of the services above will also undertake formal writing tasks (grants, papers, essays); this section only considers literature research - finding facts and references.
 - ## Experience reports for some tasks
 - [[whole-document summarization]]
-- [[synthesys query]]
+- [[synthesis query]]
 - contextualization
 	- [[citation matching]]: Scite.ai's Assistant can
 		- [[Scite.ai]]'s "Assistant" function provides relevant excerpts from the cited papers and lists them every time, without specific prompting.
