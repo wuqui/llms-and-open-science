@@ -1,5 +1,6 @@
-- [[openness]]
+- [[accessibility]]
 - [[interpretability]]
 - [[sharing]]
 - [[reproducibility]]
+-
 - (data security/privacy) [[Álvaro]] does not agree too much on including this
