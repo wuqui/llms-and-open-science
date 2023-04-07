@@ -14,6 +14,7 @@
 - We illustrate a number of use cases with full transcripts of interaction. LLMs perform well in many of the scenarios listed above. They occassionally and unpredictably produce erroneous but plausible-sounding and well-articulated prose. Real-time access of LLMs to authoritative sources of constraints or knowledge, such as compilers, computational engines, encyclopedias, databases and refereed work will likely support and expedite the necessary cross-checking of LLM output.
 - We reflect on LLMs from the perspective of [[Open Science]]. We find that LLMs need to come with an accessible training set, open source code, and a documented training protocol in order to align with principles of transparency, accountability and accessibility, while we acknowledge that the technology poses some structural [[interpretability]] problems. Similarly, while we salute the proliferation of compact models for consumer hardware, we acknowledge that LLMs and broader AI technologies pose serious ethical challenges that warrant a societal discussion about their deployment.
 - LLMs and assistive AI technologies in general will have profound impacts on education and research. How the situation will unfold depends on techological, political and cultural feedback loops that are hard to anticipate. We close with a few open questions on broader issues: copyright, the value of static content and possible human empowerment from the perspective of inclusivity.
+-
 - {{embed [[use case]]}}
 - {{embed [[user roles]]}}
 - {{embed [[Open Science principles]]}}
