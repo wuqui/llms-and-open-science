@@ -5,9 +5,9 @@
 - Conversely, do LLMs allow to overcome the absurd stranglehold, for even longer periods of protection, of copyright holders on the accumulated human culture?
 - For science, what is the realm of "common knowledge"?
   Common knowledge can go unattributed but research knowledge needs attribution if the meritocratic system currently in place is to continue.
-- ## The rise of personalized content
+- # The rise of personalized content
 - Today, creating new materials (books, articles, blog posts) seems like the hot new thing to do with LLMs. But if you could instantly access personalized content based on a query (replacement for the search string of yonder) *plus* some or even a large quantity of context reflecting your previous knowledge, would you reach for the textbook or the web search for pre-existing materials?
-- ## Inclusivity 
+- # Inclusivity 
   * Leveling the playing field for non-native speakers?
   * Helping conceptual thinkers vs. implementors. For example
      * humanities researchers can now more easily translate ideas into code
